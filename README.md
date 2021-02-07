@@ -18,7 +18,7 @@
   <tr>
       <td><h5>Day 1</h5></td>
         <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_1_Quartiles.py">Quartiles</a></td>
-        <td>*</td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_1_Interquartile%20Range.py">Interquartile Range</a></td>
         <td>*</td>
         <td>*</td>
   </tr>
