@@ -24,7 +24,7 @@
   </tr>
 
   <tr>
-      <td><h5>Day 1</h5></td>
+      <td><h5>Day 2</h5></td>
         <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_2_Basic_Probability.py">Basic Probability</a></td>
         <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_2_More_Dice.py">More Dice</a></td>
         <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_2_Compound_Event_Probability.py">Compound Event Probability</a></td>
