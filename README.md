@@ -9,11 +9,21 @@
 <table>
   <tr>
     <td><h5>Day 0</h5></td>
-      <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/mean_median_and_mode.py">Mean Median and Mode</a></td>
-      <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/Weighted_mean.py">Weighted Mean</a></td>
+      <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_0_Mean_Median_Mode.py">Mean Median and Mode</a></td>
+      <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_0_Weighted_Mean.py">Weighted Mean</a></td>
       <td>*</td>
       <td>*</td>
   </tr>
+
+  <tr>
+      <td><h5>Day 1</h5></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_1_Quartiles.py">Quartiles</a></td>
+        <td>*</td>
+        <td>*</td>
+        <td>*</td>
+  </tr>
+
+  
 </table>
 
 
