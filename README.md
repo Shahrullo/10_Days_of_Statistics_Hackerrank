@@ -31,6 +31,14 @@
         <td>*</td>
   </tr>
   
+   <tr>
+      <td><h5>Day 3</h5></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_3_Conditional_Probability.py">Conditional Probability</a></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_3_Cards_of_the_Same_Suit.py">Cards of the Same Suit</a></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_3_Drawing_Marbles.py">Drawing Marbles</a></td>
+        <td>*</td>
+  </tr>
+  
 </table>
 
 
