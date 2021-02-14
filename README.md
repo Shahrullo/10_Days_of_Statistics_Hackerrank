@@ -44,7 +44,15 @@
         <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_4_Binomial_Distribution_I.py">Binomial Distribution I</a></td>
         <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_4_Binomial_Distribution_II.py">Binomial Distribuution II</a></td>
         <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_4_Geometric_Distribution_I.py">Geometric Distribution I</a></td>
-        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_4_Geometric_Distribution_II.py">Geometric Distribution I</a></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_4_Geometric_Distribution_II.py">Geometric Distribution II</a></td>
+   </tr>
+   
+   <tr>
+      <td><h5>Day 5</h5></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_5_Poission_Distribution_I.py">Poission Distribution I</a></td>
+        <td><a href=https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_5_Poission_Distribution_II.py>Poission Distribuution II</a></td>
+        <td><a href="">Normal Distribution I</a></td>
+        <td><a href="">Normal Distribution II</a></td>
    </tr>
 
 </table>
