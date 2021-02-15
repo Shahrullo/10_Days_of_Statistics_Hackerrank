@@ -54,6 +54,14 @@
         <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_5_Normal_Distribution_I.py">Normal Distribution I</a></td>
         <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_5_Normal_Distribution_II.py">Normal Distribution II</a></td>
    </tr>
+   
+  <tr>
+      <td><h5>Day 6</h5></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_6_The_Central_Limit_Theorem_I.py">The Central Limit Theorem I</a></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_6_The_Central_Limit_Theorem_II.py">The Central Limit Theorem II</a></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_6_The_Central_Limit_Theorem_III.py">The Central Limit Theorem III</a></td>
+        <td>*</td>
+  </tr>
 
 </table>
 
