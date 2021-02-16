@@ -70,6 +70,14 @@
         <td>*</td>
         <td>*</td>
   </tr>
+  
+  <tr>
+      <td><h5>Day 8</h5></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_8_Least_Square_Regression_Line.py">Least Square Regression Line</a></td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_8_Pearson_Correlation_Coefficient_II.py">Pearson Correlation Coefficient II</a></td>
+        <td>*</td>
+        <td>*</td>
+  </tr>
 
 </table>
 
