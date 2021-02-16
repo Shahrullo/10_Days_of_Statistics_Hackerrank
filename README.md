@@ -66,7 +66,7 @@
   <tr>
       <td><h5>Day 7</h5></td>
         <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_7_Pearson_Correlation_Coefficient_I.py">Pearson Correlation Coefficient I</a></td>
-        <td>*</td>
+        <td><a href="https://github.com/Shahrullo/10_Days_of_Statistics_Hackerrank/blob/main/Day_7_Spearman_Rank_Correlation_Coefficient.py">Spearman Rank Correlation Coefficient</a></td>
         <td>*</td>
         <td>*</td>
   </tr>
